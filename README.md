@@ -41,7 +41,7 @@ token = "your token"
 #### Proxies
 
 You can comment `proxies_path` line in `config.toml` to disable proxies.
-Or you can provide one proxy in `proxies.txt`.
+Or you can provide one proxy in `proxies.txt` in format `http://username:password@ip:port`.
 I don't recommend to provide many proxies because of openledger API is unstable and you can load it heavily, causing the API to crash
 
 ```toml
