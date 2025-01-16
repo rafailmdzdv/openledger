@@ -1,6 +1,7 @@
 ## Openledger
 
 ##### This bot works like extension.
+Made by https://t.me/glistdao
 
 ##### Features:
 - Only farm
