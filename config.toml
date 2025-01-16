@@ -1,0 +1,8 @@
+token = ""
+# comment this line if you don't want to use proxies
+proxies_path = "proxies.txt"
+
+# don't touch all below
+api_uri = "https://apitn.openledger.xyz/api/v1"
+ws_uri = "wss://apitn.openledger.xyz/ws/v1/orch"
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
