@@ -63,3 +63,16 @@ Windows:
 ```powershell
 python -m src
 ```
+
+## Support
+
+```
+# Solana
+3q87zLdFVGBh7cSUQavhK5AkdNzXyD2U7xCmB27PSBdX
+
+# TRC20
+TTHJgyn3NC69UXSzEYAvZzBbRRps9vtuZf
+
+# EVM
+0xc0fa4dcd208c7e45e2a324784526eed0fc4ef8cb
+```
